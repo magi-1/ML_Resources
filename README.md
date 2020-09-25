@@ -1,2 +1,2 @@
 # Statistical-Aspects-of-Machine-Learning
-A collection of papers and write ups on multivariate statistics and machine learning
+A catalogue of important machine learning literature + homework
